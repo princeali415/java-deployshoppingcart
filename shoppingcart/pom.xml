@@ -102,7 +102,7 @@
     </dependencies>
 
     <build>
-        <finalName>hussain-ali-shoppingcart-web38</finalName>
+        <finalName>haali-web38</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
